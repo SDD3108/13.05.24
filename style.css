@@ -1,0 +1,179 @@
+* {
+    margin: 0;
+}
+.slide-1 {
+    height: 1024px;
+    background-color: #D9E0EC;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.header-content {
+    display: flex;
+    text-align: center;
+    gap: 12px;
+    padding-top: 36px;
+    font-family: "DM Sans";
+}
+.slide-content {
+    width: 1198px;
+    height: 943px;
+}
+.header {
+    height: 121px;
+}
+.discover {
+    font-size: 34px;
+    font-family: "Integral CF Regular";
+}
+.header-content a {
+    text-decoration: none;
+    color: black;
+}
+.b1 {
+    width: 132px;
+    height: 38px;
+    background-color: #3D00B7;
+    border-radius: 100px;
+    border: 0;
+}
+.b1 a {
+    color: white;
+}
+.b2 {
+    width: 61px;
+    border-radius: 100px;
+    border: 0;
+}
+.b3 {
+    width: 113px;
+    border-radius: 100px;
+    border:0;
+}
+.b4 {
+    width: 91px;
+    border-radius: 100px;
+    border: 0;
+}
+.b5 {
+    width: 77px;
+    border-radius: 100px;
+    border: 0;
+}
+.b6 {
+    width: 80px;
+    border-radius: 100px;
+    border: 0;
+}
+.b7 {
+    width: 87px;
+    border-radius: 100px;
+    border: 0;
+}
+.burger {
+    width: 135px;
+    border-radius: 100px;
+    border:0;
+    margin-left: 345px;
+    display: flex;
+    align-items: center;
+}
+.liner {
+    padding-left: 20px;
+}
+.sd a {
+    color: #371C87;
+    margin-left: 10px;
+}
+.line1 {
+    width: 24px;
+    height: 2.7px;
+    background-color: #371C87;
+}
+.line2 {
+    width: 16px;
+    height: 2.5px;
+    background-color: #371C87;
+    margin-top: 4px;
+    margin-left: 4px;
+}
+.line3 {
+    width: 6px;
+    height: 2.5px;
+    background-color: #371C87;
+    margin-top: 4px;
+    margin-left: 9px;
+}
+.slide-nft {
+    width: 1198px;
+    height: 786px;
+    display: grid;
+    grid-template-columns: repeat(4, 269px);
+    grid-template-rows: 373px 373px 373px 373px;
+    column-gap: 39.49px;
+    row-gap: 40px;
+    margin-top: 36px;
+    font-family: "DM Sans";
+}
+.nft {
+    background-color: #FFFFFF;
+    border-radius: 13.16px;
+}
+.picture {
+    width: 248px;
+    height: 222.7px;
+    margin: 10.97px 10.97px 10.97px 10.97px;
+}
+.nft-text {
+    display: flex;
+    margin-left: 23.04px;
+    margin-top: 10.72px;
+}
+.crypto {
+    font-size: 19.75px; 
+    margin-left: 23.04px;
+}
+.nft-text h5 {
+    margin-left: 5.49px;
+    font-size: 10.97px;
+    color: #00AC4F;
+}
+.nft-text p {
+    font-size: 10.97px;
+    margin-left: 114.7px;
+    color: #838383;
+}
+.line {
+    width: 223.8px;
+    height: 1px;
+    border-radius: 100px;
+    background-color: #F4F4F4;
+    margin-left: 23.04px;
+    margin-top: 19.75px;
+}
+.time-bid {
+    display: flex;
+    margin-top: 10.84px;
+}
+.time-bid p {
+    color: #4F33A3;
+    margin: auto;
+    margin-left: 48.07px;
+    font-size: 15.36px;
+}
+.time {
+    width: 96.94px;
+    height: 28.78px;
+    background-color: #F5F5F5;
+    border-radius: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 22.84px;
+}
+.time p {
+    margin: auto;
+    color: #5539A8;
+    font-size: 10.97px;
+}
